@@ -6,7 +6,7 @@ A web based Chat application built using HTML5, CSS3, Javascript and PHP. MAMP l
 For running the application on a MAC you will need to install MAMP server and for running on Windows you will need a WAMP server. Create a directory called Chat in www directory. Put all the above files in the Chat directory. 
 
 
-Then you will need to create a MySQL database called ÒchatÓ. Create two tables in the chat database.
+Then you will need to create a MySQL database called chat. Create two tables in the chat database.
 Table 1 - login_details for storing login information about the users
 Table 2 - logs for storing chat messages of the users
 
