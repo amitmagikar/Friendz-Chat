@@ -1,4 +1,5 @@
-#Friendz-Chat
+Friendz-Chat
+
 
 A web based Chat application built using HTML5, CSS3, Javascript and PHP. MAMP local server used. 
 
